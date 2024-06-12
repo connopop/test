@@ -17,6 +17,7 @@ console.log(percentage)
 */
 // testing strings
 
+/*
 console.log(9007199254740991 + 1); // 9007199254740992
 console.log(9007199254740991 + 2); // 9007199254740992
 
@@ -24,3 +25,6 @@ let string1 = "hello!";
 let string2 = `hello! my name is ${string1}`;
 
 console.log(string2);
+*/
+// testing conditions
+
